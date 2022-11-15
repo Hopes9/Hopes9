@@ -101,9 +101,9 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hopes9&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /></div>  
-
+<div align="center"><img src="https://streak-stats.demolab.com?user=hopes9&theme=dark&hide_border=true&locale=ru" align="center" /></div> 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hopes9&hide_border=true&layout=compact&theme=dark" align="center" /></div>  
-<div align="center"><img src="https://streak-stats.demolab.com?user=hopes9&theme=dark&hide_border=true&locale=ru" align="center" /></div>  
+ 
 <br/>  
 
 
