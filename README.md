@@ -105,7 +105,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hopes9&hide_border=true&layout=compact&theme=dark" align="center" /></div>  
 
 <br/>  
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=hopes9&theme=dark&hide_border=true&locale=ru)](https://git.io/streak-stats)
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
