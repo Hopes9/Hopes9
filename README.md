@@ -93,7 +93,8 @@
 <a href="https://instagram.com/iamrishavanand" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div>
+<a href="https://wakatime.com/@018b1436-62ba-441c-b032-ffcf43335fb1"><img src="https://wakatime.com/badge/user/018b1436-62ba-441c-b032-ffcf43335fb1.svg" alt="Total time coded since Oct 9 2023" /></a>
   
 
 <br/>  
