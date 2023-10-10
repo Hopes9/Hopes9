@@ -93,9 +93,6 @@
 <a href="https://instagram.com/iamrishavanand" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-<a>  
-<a href="https://wakatime.com/@018b1436-62ba-441c-b032-ffcf43335fb1"><img src="https://wakatime.com/badge/user/018b1436-62ba-441c-b032-ffcf43335fb1.svg" alt="Total time coded since Oct 9 2023" /></a>
-</a> 
 </div>
 
 <br/>  
@@ -123,8 +120,10 @@ If things goes well, this section should automatically be replaced by a list of 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=hopes9&&style=flat-square" align="center" />
 </div>  
-  
-
+<br/>  
+<div align="center">
+<a href="https://wakatime.com/@018b1436-62ba-441c-b032-ffcf43335fb1"><img src="https://wakatime.com/badge/user/018b1436-62ba-441c-b032-ffcf43335fb1.svg" alt="Total time coded since Oct 9 2023" /></a>
+</div>  
 <br/>  
 
 <div align="center">
